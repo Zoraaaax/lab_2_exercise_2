@@ -3,3 +3,5 @@ def cube_elements(array):
         print(number ** 3)
 
 
+try:
+    
