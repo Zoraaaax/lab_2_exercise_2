@@ -8,4 +8,5 @@ try:
     elements = list(map(int, input("Enter the elements separated by space: ").split()))
 
     if len(elements) != size:
-        
+        print(f"Please enter exactly {size} elements.")
+    
