@@ -5,4 +5,5 @@ def cube_elements(array):
 
 try:
     size = int(input("Enter the size of the array: "))
+    elements = list(map(int, input("Enter the elements separated by space: ").split()))
     
