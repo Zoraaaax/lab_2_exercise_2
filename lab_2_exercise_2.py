@@ -13,4 +13,4 @@ try:
         cube_elements(elements)
 
 except ValueError:
-    
+    print("Please enter valid numbers")
