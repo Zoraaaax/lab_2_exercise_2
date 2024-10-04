@@ -9,4 +9,5 @@ try:
 
     if len(elements) != size:
         print(f"Please enter exactly {size} elements.")
-    
+    else:
+        
