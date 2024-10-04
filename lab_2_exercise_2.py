@@ -11,3 +11,6 @@ try:
         print(f"Please enter exactly {size} elements.")
     else:
         cube_elements(elements)
+
+except ValueError:
+    
